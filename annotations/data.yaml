@@ -1,0 +1,7 @@
+# ultralytics dataset file - run prepare_dataset.py first to create dataset/images + dataset/labels
+path: dataset
+train: images/train
+val: images/valid
+test: images/test
+names:
+  0: barcode

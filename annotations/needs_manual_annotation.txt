@@ -1,0 +1,8 @@
+test/Barcode_20260916_122434_798_png.rf.q50hCIF43vqtuq3mdIus.png
+train/Barcode_20260916_121405_565_png.rf.hSRR14ZQbcRaT21U1NyV.png
+train/Barcode_20260916_121715_301_png.rf.bL99A2D8Tl5d9Ht9ptUu.png
+train/Barcode_20260916_121819_287_png.rf.g6NvTteJuK5suvUAnreM.png
+train/Barcode_20260916_121831_478_png.rf.YuswOffRQ9FiK45fWa6z.png
+train/Barcode_20260916_122723_871_png.rf.sYsI6P2SKE3VXUCVw3Y4.png
+train/Barcode_20260916_122818_674_png.rf.erKfnj9wSUfhzuxvV2Gx.png
+train/Barcode_20260916_122829_655_png.rf.cY0EVlTdM5KxbPmVcMpt.png
