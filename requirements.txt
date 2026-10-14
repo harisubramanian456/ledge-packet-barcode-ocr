@@ -1,0 +1,14 @@
+# ---- core pipeline ----
+opencv-python>=4.8
+numpy>=1.24
+pillow>=10.0
+pyzbar>=0.1.9            # barcode decoder (Windows wheel includes zbar DLLs)
+pytesseract>=0.3.10      # OCR wrapper - also install the Tesseract program itself (see README)
+python-barcode>=0.15     # barcode generation + Code128 tables
+
+# ---- YOLO barcode detector ----
+ultralytics>=8.3         # YOLOv8 runtime (pulls in torch)
+huggingface_hub>=0.23    # downloads Piero2411/YOLOV8s-Barcode-Detection weights on first run
+
+# ---- optional ----
+zxing-cpp>=2.2           # second decoder, only used by barcode_scanner.py (manual ROI tool)
